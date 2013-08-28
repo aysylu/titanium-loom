@@ -1,13 +1,13 @@
 (ns ^{:doc "Defines an interface between Titanium and Loom."
       :author "Aysylu Greenberg"}
   loom.titanium
-  (:require [clojure.set :as set])
-  (:require [clojurewerkz.titanium.graph :as tg])
-  (:require [clojurewerkz.titanium.elements :as te])
-  (:require [clojurewerkz.titanium.edges :as edges])
-  (:require [clojurewerkz.titanium.vertices :as nodes])
-  (:require [loom.io :as io])
-  (:use [loom.graph]))
+  (:require [clojure.set :as set]
+            [clojurewerkz.titanium.graph :as tg]
+            [clojurewerkz.titanium.elements :as te]
+            [clojurewerkz.titanium.edges :as edges]
+            [clojurewerkz.titanium.vertices :as nodes]
+            [loom.io :as io])
+  (:use [loom graph]))
 
 (defn titanium->loom
   "Converts titanium graph into Loom representation"
