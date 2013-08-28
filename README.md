@@ -46,6 +46,10 @@ See Loom's [documentation](https://github.com/aysylu/loom) on how to inspect the
 * Titanium
 * Optional for visualization: [GrapViz](http://graphviz.org).
 
+## Continuous Integration
+
+[![Build Status](https://travis-ci.org/aysylu/titanium-loom.png)](http://travis-ci.org/aysylu/titanium-loom)
+
 ## TODO
 
 * Add support for infinite graphs
