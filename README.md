@@ -1,4 +1,4 @@
-# Titanium-Loom
+# Titanium-Loom [![Build Status](https://travis-ci.org/aysylu/titanium-loom.png)](http://travis-ci.org/aysylu/titanium-loom)
 
 Titanium-Loom defines an interface between [Titanium](http://titanium.clojurewerkz.org/), a Clojure graph library by Clojurewerkz, and [Loom](https://github.com/aysylu/loom), a Clojure graph algorithms and visualization library.
 
@@ -45,10 +45,6 @@ See Loom's [documentation](https://github.com/aysylu/loom) on how to inspect the
 * Loom
 * Titanium
 * Optional for visualization: [GrapViz](http://graphviz.org).
-
-## Continuous Integration
-
-[![Build Status](https://travis-ci.org/aysylu/titanium-loom.png)](http://travis-ci.org/aysylu/titanium-loom)
 
 ## TODO
 
