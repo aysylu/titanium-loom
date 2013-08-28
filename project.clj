@@ -1,4 +1,4 @@
-(defproject aysylu/titanium-loom "0.1.2-SNAPSHOT"
+(defproject aysylu/titanium-loom "0.1.3-SNAPSHOT"
   :description "Titanium-Loom integration library"
   :url "https://github.com/aysylu/titanium-loom"
   :license {:name "Eclipse Public License"

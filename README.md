@@ -6,7 +6,7 @@ Titanium-Loom defines an interface between [Titanium](http://titanium.clojurewer
 
 ### Leiningen/Clojars [group-id/name version]
 
-    [aysylu/titanium-loom "0.1.1"]
+    [aysylu/titanium-loom "0.1.2"]
 
 ### Namespaces
 
