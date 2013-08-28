@@ -1,7 +1,6 @@
 (ns loom.titanium-test
   (:use [clojure.test]
-        [titanium-loom.core]
-        [loom graph alg])
+        [loom graph alg titanium])
   (:require [clojurewerkz.titanium.edges :as edges]
             [clojurewerkz.titanium.vertices :as nodes]
             [clojurewerkz.titanium.query :as q]
